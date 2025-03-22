@@ -1,6 +1,6 @@
 # Telling tales through indie games
 
-[Perky Crow](https://www.perkycrow.com) is a small indie game studio based in the France.
+[PerkyCrow](https://www.perkycrow.com) is a small indie game studio based in the France.
 
 
 # Social media
